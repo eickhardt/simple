@@ -101,7 +101,7 @@
     
     <p>Well versed in backend-php development, I prefer to work with the framework Laravel: I enjoy quickly creating small projects and testing ideas. I also take care of the front-end, as JavaScript and CSS and other styling technologies are second nature to me.</p>
 
-    <img style="margin: 10px 0;" width="50%" src='/img/tables_comic.jpg' alt='Comic'>
+    <img style="margin: 10px 0;" width="50%" src='http://static.tumblr.com/efa7ixv/dw0m5amek/rajanand-programming-quotes__1_.jpg' alt='Comic'>
 
     <p>I have been involved with numerous successful projects, doing a variety of tasks from restructuring and integrating different systems across platforms, maintaining legacy code, to developing brand new concepts from the ground up.</p>
     
