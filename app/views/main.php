@@ -239,20 +239,26 @@
     </div>
     
     <h2>Collaborations</h2>
-    <div class='publiDIV'>
-        <h3>AmorDating.co.uk</h3>
-        <a target="_blank" href="http://www.amordating.co.uk"><img class="site_image" src="/img/datemig.png"></a>
-    </div>
+    <a target="_blank" href="http://www.amordating.co.uk">
+        <div class='publiDIV'>
+            <h3>AmorDating.co.uk</h3>
+            <img class="site_image" src="/img/datemig.png">
+        </div>
+    </a>
     
-    <div class='publiDIV'>
-        <h3>Lotto24.co.uk</h3>
-        <a target="_blank" href="http://www.lotto24.co.uk/"><img class="site_image" src="/img/lotto24.png"></a>
-    </div>
+    <a target="_blank" href="http://www.lotto24.co.uk/">
+        <div class='publiDIV'>
+            <h3>Lotto24.co.uk</h3>
+            <img class="site_image" src="/img/lotto24.png">
+        </div>
+    </a>
 
-    <div class='publiDIV'>
-        <h3>ServiceKlub.dk</h3>
-        <a target="_blank" href="http://www.serviceklub.dk"><img class="site_image" src="/img/serviceklub.png"></a>
-    </div>
+    <a target="_blank" href="http://www.serviceklub.dk">
+        <div class='publiDIV'>
+            <h3>ServiceKlub.dk</h3>
+            <img class="site_image" src="/img/serviceklub.png">
+        </div>
+    </a>
     
 </div>
 
