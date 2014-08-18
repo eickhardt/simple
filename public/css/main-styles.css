@@ -189,6 +189,6 @@ myemail::before {
     color: #fff;
 }
 
-#menyItems ul li {
+#menuItems li {
     cursor: pointer;
 }
