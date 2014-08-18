@@ -222,22 +222,28 @@
 
 <div class='panel content' id='publications'>
     <h1>Selected projects</h1>
+    
     <h2>Single handedly developed projects</h2>
-    <div class='publiDIV'>
-        <h3>Libido24.dk</h3>
-        <a target="_blank" href="http://www.libido24.dk"><img class="site_image" src="/img/libido24.png"></a>
-    </div>
+    <a target="_blank" href="http://www.libido24.dk">
+        <div class='publiDIV'>
+            <h3>Libido24.dk</h3>
+            <img class="site_image" src="/img/libido24.png">
+        </div>
+    </a>
     
-    <div class='publiDIV'>
-        <h3>Molenaarenmolenaar.nl</h3>
-        <a target="_blank" href="http://www.molenaarenmolenaar.nl"><img class="site_image" src="/img/molenaarenmolenaar.png"></a>
-    </div>
+    <a target="_blank" href="http://www.molenaarenmolenaar.nl">
+        <div class='publiDIV'>
+            <h3>Molenaarenmolenaar.nl</h3>
+            <img class="site_image" src="/img/molenaarenmolenaar.png">
+        </div>
+    </a>
     
-    <div class='publiDIV'>
-        <h3>Workmassage.nl</h3>
-        <a target="_blank" href="http://www.workmassage.nl"><img class="site_image" src="/img/workmassage.png"></a>
-    </div>
-    
+    <a target="_blank" href="http://www.workmassage.nl">
+        <div class='publiDIV'>
+            <h3>Workmassage.nl</h3>
+            <img class="site_image" src="/img/workmassage.png">
+        </div>
+    </a>
     <h2>Collaborations</h2>
     <a target="_blank" href="http://www.amordating.co.uk">
         <div class='publiDIV'>
@@ -265,12 +271,8 @@
 <div class='panel content' id='contact'>
     <h1>Contact</h1>
     <div class='contactDIV'>
-        <a href='https://www.linkedin.com/in/deickhardt' target='_blank'>
-            <img class="mail_image" src="/img/mail.svg">
-        </a>
-         
-        <!-- Set data-user and data-domain as your 
-               email username and domain respectively --> 
+        
+        <img class="mail_image" src="/img/mail.svg">
          
         <div class="email"><myemail data-user="ddeickhardt" data-domain="hotmail.com">@</myemail></div>
     </div>
