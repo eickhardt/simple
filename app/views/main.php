@@ -113,9 +113,27 @@
 
 <div class='panel content' id='experience'>
     <h1>Experience</h1>
+
+    <div class='xpBlock'>
+        <div class='xpYears'>2014 - 2014</div>
+        <div class='xpEntry'>
+            <div class='xpExperience'>Developer</div>
+            <div class='xpCompany'>Vindstød A/S</div>    
+        </div>
+        <div class='xpMoreLink'>
+            <a>My role <i class='fa fa-arrow-circle-o-down'></i></a>
+        </div>
+        <div class='xpMore'>
+            <ul>
+                <li>Website maintenace in Drupal</li>
+                <li>Developing backend system in PHP</li>
+                <li>My contract was terminated early due to expected orders not being made</li>
+            </ul>
+        </div>
+    </div>
     
     <div class='xpBlock'>
-        <div class='xpYears'>2013 - now</div>
+        <div class='xpYears'>2013 - 2014</div>
         <div class='xpEntry'>
             <div class='xpExperience'>Developer</div>
             <div class='xpCompany'>Plusservice & Expantic A/S, Aalborg DK</div>    
