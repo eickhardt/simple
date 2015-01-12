@@ -126,8 +126,8 @@
         <div class='xpMore'>
             <ul>
                 <li>Website maintenace in Drupal</li>
-                <li>Developing backend system in PHP</li>
-                <li>My contract was terminated early due to expected orders not being made</li>
+                <li>Developing backend system in PHP, Zend Framework</li>
+                <li>My contract was terminated early and unexpectedly after 2 months, due to unfulfilled orders needed to maintain my position</li>
             </ul>
         </div>
     </div>
