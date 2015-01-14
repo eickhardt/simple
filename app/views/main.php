@@ -292,7 +292,7 @@
         
         <img class="mail_image" src="/img/mail.svg">
          
-        <div class="email"><myemail data-user="ddeickhardt" data-domain="hotmail.com">@</myemail></div>
+        <div class="email"><myemail data-user="ddeickhardt" data-domain="gmail.com">@</myemail></div>
     </div>
 </div>
 
