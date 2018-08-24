@@ -97,7 +97,7 @@
 
     <p></p>
     <p><b>Most good programmers do programming not because they expect to get paid or get adolation by the public, but because it is fun to program.</b></p>
-    <p><p>- Linus Thorvalds</b></p>
+    <p><b>- Linus Thorvalds</b></p>
     <p></p>
     <h1>About me</h1>
     <p>My work aims at bridging the gap between graphic designers and end users of digital products, in order to bring the best possible user experience to all audiences.</p> 
@@ -110,6 +110,20 @@
 </div>
 
 <div class='panel content' id='experience'>
+
+    <h1>Technologies</h1>
+
+    <div class='xpBlock'>
+        <div class='xpYears'>JavaScript (jQuery, Angular 1&2, Vue, vanilla) - 3 years</div>
+        <div class='xpYears'>Angular 2 (Version 5 and above) - 6 months</div>
+        <div class='xpYears'>Java (Maven, Spring) - 6 months</div>
+        <div class='xpYears'>Linux webservers CLI - 3 years</div>
+        <div class='xpYears'>PHP (REST API's, Laravel) - 2½ years</div>
+        <div class='xpYears'>General scripting (.cmd, bat, powershell) - 6 months</div>
+        <div class='xpYears'>Vue JS - Small side projects i do on my own time</div>
+        <div class='xpYears'>Interested in learning new ones</div>
+    </div>
+
     <h1>Experience</h1>
 
     <div class='xpBlock'>
@@ -142,8 +156,8 @@
         <div class='xpMore'>
             <ul>
                 <li>Started the company Web Artisans I/S</li>
-                <li>Developed a image processing website for SUMOpix A/S</li>
-                <li>Maintaned Garant website and other tasks related to Garant & SUMOpix collaborations</li>
+                <li>Developed an image processing website for SUMOpix A/S</li>
+                <li>Maintained Garant website and other tasks related to Garant & SUMOpix collaborations</li>
             </ul>
         </div>
     </div>
@@ -159,9 +173,8 @@
         </div>
         <div class='xpMore'>
             <ul>
-                <li>Website maintenace in Drupal</li>
+                <li>Website maintenance in Drupal (PHP)</li>
                 <li>Developing backend system in PHP, Zend Framework</li>
-                <li>My contract was terminated early and unexpectedly after 2 months, due to unfulfilled orders needed to maintain my position</li>
             </ul>
         </div>
     </div>
@@ -178,7 +191,7 @@
         <div class='xpMore'>
             <ul>
                 <li>Initially developed a new concept, named libido24 using the PHP framwork Laravel</li>
-                <li>Maintainance and expansion of public sites in "pure" PHP</li>
+                <li>Maintenance and expansion of public sites in "pure" PHP</li>
                 <li>Restructuring and performance-enhancing core components of internal legacy systems</li>
             </ul>
         </div>
@@ -225,7 +238,7 @@
         </div>
     </div>
     
-    <div class='xpBlock'>
+    <!-- <div class='xpBlock'>
         <div class='xpYears'>2002 - 2010</div>
         <div class='xpEntry'>
             <div class='xpExperience'>Various untrained jobs</div>
@@ -237,15 +250,15 @@
         <div class='xpMore'>
             <ul>
                 <li>Mailman for Post Danmark - Part time during studies</li>
-                <li>Pruduction worker at Flextronics A/S, Skive</li>
-                <li>Pruduction worker at Kaj Toft Elektronik A/S, Skive</li>
+                <li>Production worker at Flextronics A/S, Skive</li>
+                <li>Production worker at Kaj Toft Elektronik A/S, Skive</li>
                 <li>Farming</li>
                 <li>Blockbuster</li>
                 <li>Grocery store employee</li>
                 <li>And many others :)</li>
             </ul>
         </div>
-    </div>
+    </div> -->
 </div>
 
 <div class='panel content' id='education'>
@@ -275,7 +288,7 @@
 <div class='panel content' id='publications'>
     <h1>Selected projects</h1>
     
-    <h2>Projects I have developed myself</h2>
+    <h2>Solo projects</h2>
     <a target="_blank" href="http://sumopix.com">
         <div class='publiDIV'>
             <h3>SUMOpix.com</h3>
@@ -297,7 +310,7 @@
         </div>
     </a>
 
-    <h2>Projects that I worked on in collaboration with others</h2>
+    <h2>Collaboration projects</h2>
     <a target="_blank" href="http://garant.nu">
         <div class='publiDIV'>
             <h3>garant.nu</h3>
