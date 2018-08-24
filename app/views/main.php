@@ -270,25 +270,11 @@
 <div class='panel content' id='publications'>
     <h1>Selected projects</h1>
     
-    <h2>Projects I have developed by myself</h2>
+    <h2>Projects I have developed myself</h2>
     <a target="_blank" href="http://sumopix.com">
         <div class='publiDIV'>
             <h3>SUMOpix.com</h3>
             <img class="site_image" src="/img/sumopix.png">
-        </div>
-    </a>
-    
-    <a target="_blank" href="http://garant.dk">
-        <div class='publiDIV'>
-            <h3>garant.dk</h3>
-            <img class="site_image" src="/img/garant.png">
-        </div>
-    </a>
-    
-    <a target="_blank" href="http://www.libido24.dk">
-        <div class='publiDIV'>
-            <h3>Libido24.dk</h3>
-            <img class="site_image" src="/img/libido24.png">
         </div>
     </a>
     
@@ -307,6 +293,13 @@
     </a>
 
     <h2>Projects that I worked on in collaboration with others</h2>
+    <a target="_blank" href="http://garant.nu">
+        <div class='publiDIV'>
+            <h3>garant.nu</h3>
+            <img class="site_image" src="/img/garant.png">
+        </div>
+    </a>
+
     <a target="_blank" href="http://www.amordating.co.uk">
         <div class='publiDIV'>
             <h3>AmorDating.co.uk</h3>
@@ -318,13 +311,6 @@
         <div class='publiDIV'>
             <h3>Lotto24.co.uk</h3>
             <img class="site_image" src="/img/lotto24.png">
-        </div>
-    </a>
-
-    <a target="_blank" href="http://www.serviceklub.dk">
-        <div class='publiDIV'>
-            <h3>ServiceKlub.dk</h3>
-            <img class="site_image" src="/img/serviceklub.png">
         </div>
     </a>
     
