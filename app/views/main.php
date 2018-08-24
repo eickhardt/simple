@@ -190,7 +190,7 @@
         </div>
         <div class='xpMore'>
             <ul>
-                <li>Initially developed a new concept, named libido24 using the PHP framwork Laravel</li>
+                <li>Initially developed a new concept, named libido24 using the PHP framework Laravel</li>
                 <li>Maintenance and expansion of public sites in "pure" PHP</li>
                 <li>Restructuring and performance-enhancing core components of internal legacy systems</li>
             </ul>
