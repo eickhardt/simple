@@ -94,14 +94,15 @@
 </div>
 
 <div class='panel content' id='about'>
-    <h1>About me</h1>
-    <p>My work aims at bridging the gap between graphic designers and end users of digital products, in order to bring the best possible user experience to all audiences.</p> 
-    <p>I see myself at the crossing of backend-development, OOP-design, human-computer interaction and media, and technology research.</p>
-    <p>Well versed in both front and backend development, I prefer to work with established and proven technologies. I enjoy quickly creating small projects and testing ideas.</p>
+
     <p></p>
     <p><b>Most good programmers do programming not because they expect to get paid or get adolation by the public, but because it is fun to program.</b></p>
     <p><p>- Linus Thorvalds</b></p>
     <p></p>
+    <h1>About me</h1>
+    <p>My work aims at bridging the gap between graphic designers and end users of digital products, in order to bring the best possible user experience to all audiences.</p> 
+    <p>I see myself at the crossing of backend-development, OOP-design, human-computer interaction and media, and technology research.</p>
+    <p>Well versed in both front and backend development, I prefer to work with established and proven technologies. I enjoy quickly creating small projects and testing ideas.</p>
     <!-- <img style="margin: 10px 0;" width="50%" src='http://static.tumblr.com/efa7ixv/dw0m5amek/rajanand-programming-quotes__1_.jpg' alt='Comic'> -->
     <p>I have been involved with numerous successful projects, doing a variety of tasks from restructuring and integrating different systems across platforms, maintaining legacy code, to developing brand new concepts from the ground up.</p>
     <p>In parallel I find working on the web a source of inspiration to my private life, and I undertake personal projects from time to time to diversify and increase my programming experience.</p>
