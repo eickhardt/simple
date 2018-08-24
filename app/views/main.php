@@ -114,14 +114,13 @@
     <h1>Technologies</h1>
 
     <div class='xpBlock'>
-        <div class='xpYears'>JavaScript (jQuery, Angular 1&2, Vue, vanilla) - 3 years</div>
-        <div class='xpYears'>Angular 2 (Version 5 and above) - 6 months</div>
-        <div class='xpYears'>Java (Maven, Spring) - 6 months</div>
-        <div class='xpYears'>Linux webservers CLI - 3 years</div>
-        <div class='xpYears'>PHP (REST API's, Laravel) - 2½ years</div>
-        <div class='xpYears'>General scripting (.cmd, bat, powershell) - 6 months</div>
-        <div class='xpYears'>Vue JS - Small side projects i do on my own time</div>
-        <div class='xpYears'>Interested in learning new ones</div>
+        <div class='techLineA'>JavaScript (jQuery, Angular 1&2, Vue, vanilla)</div><div class='techLineB'>3 years</div>
+        <div class='techLineA'>Angular 2 (Version 5 and above)</div><div class='techLineB'>6 months</div>
+        <div class='techLineA'>Java (Maven, Spring)</div><div class='techLineB'>6 months</div>
+        <div class='techLineA'>Linux webservers CLI</div><div class='techLineB'>3 years</div>
+        <div class='techLineA'>PHP (REST API's, Laravel)</div><div class='techLineB'>2½ years</div>
+        <div class='techLineA'>General scripting (.cmd, bat, powershell)</div><div class='techLineB'>6 months</div>
+        <div class='techLineA'>Vue JS</div><div class='techLineB'>Small side projects I do on my own time</div>
     </div>
 
     <h1>Experience</h1>
@@ -200,7 +199,7 @@
     <div class='xpBlock'>
         <div class='xpYears'>2012</div>
         <div class='xpEntry'>
-            <div class='xpExperience'>Developer - 6 months internship</div>
+            <div class='xpExperience'>Developer - 6 month internship</div>
             <div class='xpCompany'>Techtwo Internetdiensten, Netherlands</div>    
         </div>
         <div class='xpMoreLink'>

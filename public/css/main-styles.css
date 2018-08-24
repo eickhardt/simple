@@ -192,3 +192,13 @@ myemail::before {
 #menu ul li {
     cursor: pointer;
 }
+
+.techLineA {
+    display: inline-block;
+    width: 50%;
+}
+
+.techLineB {
+    display: inline-block;
+    width: 50%;
+}
