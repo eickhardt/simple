@@ -86,6 +86,7 @@
 <div id='menu' class='panel menu'>
     <ul id='menuItems'>
         <li id='aboutID'>About me</li>
+        <li id='technologiesID'>Technologies</li>
         <li id='experienceID'>Experience</li>
         <li id='educationID'>Education</li>
         <li id='publicationsID'>Projects</li>
@@ -109,7 +110,7 @@
     <p>And when not at work I'm either running, playing music with my guitar, or traveling around. I also like to play with Arduino, and whip out my soldering iron when I get the chance.</p>
 </div>
 
-<div class='panel content' id='experience'>
+<div class='panel content' id='technologies'>
 
     <h1>Technologies</h1>
 
@@ -123,7 +124,9 @@
         <div class='techLine'>General scripting (.cmd, bat, powershell)</div><div class='techLine'>6 months</div>
         <div class='techLine'>Vue JS</div><div class='techLine'>Small side projects I do on my own time</div>
     </div>
+</div>
 
+<div class='panel content' id='experience'>
     <h1>Experience</h1>
 
     <div class='xpBlock'>
@@ -138,7 +141,7 @@
         <div class='xpMore'>
             <ul>
                 <li>Worked on high level controls for industry grade automated logistics systems</li>
-                <li>Project sizes ranging from small package sortig facilities to large distribution centers</li>
+                <li>Project sizes ranging from small package sorting facilities to large distribution centers</li>
                 <li>Onsite commissioning outside the country</li>
             </ul>
         </div>
