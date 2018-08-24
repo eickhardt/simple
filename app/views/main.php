@@ -123,8 +123,8 @@
         <div class='xpMore'>
             <ul>
                 <li>Worked on high level controls for industry grade automated logistics systems</li>
-                <li>Various projects of various sizes</li>
-                <li>Onsite commissioning</li>
+                <li>Project sizes ranging from small package sortig facilities to large distribution centers</li>
+                <li>Onsite commissioning outside the country</li>
             </ul>
         </div>
     </div>
