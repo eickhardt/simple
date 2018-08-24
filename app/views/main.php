@@ -114,6 +114,7 @@
     <h1>Technologies</h1>
 
     <div class='xpBlock'>
+        <div class='techLineA'>Responsive web design and implementation (CSS, SCSS, SASS)</div><div class='techLineB'>4 years</div>
         <div class='techLineA'>JavaScript (jQuery, Angular 1&2, Vue, vanilla)</div><div class='techLineB'>3 years</div>
         <div class='techLineA'>Angular 2 (Version 5 and above)</div><div class='techLineB'>6 months</div>
         <div class='techLineA'>Java (Maven, Spring)</div><div class='techLineB'>6 months</div>
