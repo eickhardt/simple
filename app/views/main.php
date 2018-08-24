@@ -99,7 +99,7 @@
         
     <p>I see myself at the crossing of backend-development, OOP-design, human-computer interaction and media, and technology research.</p>
     
-    <p>Well versed in backend-php development, I prefer to work with the framework Laravel: I enjoy quickly creating small projects and testing ideas. I also take care of the front-end, as JavaScript and CSS and other styling technologies are second nature to me.</p>
+    <p>Well versed in both front and backend development, I prefer to work with established and proven technologies. I enjoy quickly creating small projects and testing ideas.</p>
 
     <img style="margin: 10px 0;" width="50%" src='http://static.tumblr.com/efa7ixv/dw0m5amek/rajanand-programming-quotes__1_.jpg' alt='Comic'>
 
@@ -113,6 +113,42 @@
 
 <div class='panel content' id='experience'>
     <h1>Experience</h1>
+
+    <div class='xpBlock'>
+        <div class='xpYears'>2016 - 2018</div>
+        <div class='xpEntry'>
+            <div class='xpExperience'>Developer</div>
+            <div class='xpCompany'>Intelligent Systems</div>    
+        </div>
+        <div class='xpMoreLink'>
+            <a>My role <i class='fa fa-arrow-circle-o-down'></i></a>
+        </div>
+        <div class='xpMore'>
+            <ul>
+                <li>Worked on high level controls for industry grade automated logistics systems</li>
+                <li>Various projects of various sizes</li>
+                <li>Onsite commissioning</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class='xpBlock'>
+        <div class='xpYears'>2014 - 2016</div>
+        <div class='xpEntry'>
+            <div class='xpExperience'>Developer</div>
+            <div class='xpCompany'>Web Artisans I/S</div>    
+        </div>
+        <div class='xpMoreLink'>
+            <a>My role <i class='fa fa-arrow-circle-o-down'></i></a>
+        </div>
+        <div class='xpMore'>
+            <ul>
+                <li>Started the company Web Artisans I/S</li>
+                <li>Developed a image processing website for SUMOpix A/S</li>
+                <li>Maintaned Garant website and other tasks related to Garant & SUMOpix collaborations</li>
+            </ul>
+        </div>
+    </div>
 
     <div class='xpBlock'>
         <div class='xpYears'>2014 - 2014</div>
@@ -241,11 +277,25 @@
 <div class='panel content' id='publications'>
     <h1>Selected projects</h1>
     
-    <h2>Single handedly developed projects</h2>
+    <h2>Projects I have developed by myself</h2>
     <a target="_blank" href="http://www.libido24.dk">
         <div class='publiDIV'>
             <h3>Libido24.dk</h3>
             <img class="site_image" src="/img/libido24.png">
+        </div>
+    </a>
+    
+    <a target="_blank" href="http://sumopix.com">
+        <div class='publiDIV'>
+            <h3>SUMOpix.com</h3>
+            <img class="site_image" src="/img/sumopix.png">
+        </div>
+    </a>
+    
+    <a target="_blank" href="http://garant.dk">
+        <div class='publiDIV'>
+            <h3>garant.dk</h3>
+            <img class="site_image" src="/img/garant.png">
         </div>
     </a>
     
@@ -262,7 +312,8 @@
             <img class="site_image" src="/img/workmassage.png">
         </div>
     </a>
-    <h2>Collaborations</h2>
+    
+    <h2>Projects that I worked on in collaboration with others</h2>
     <a target="_blank" href="http://www.amordating.co.uk">
         <div class='publiDIV'>
             <h3>AmorDating.co.uk</h3>
