@@ -193,12 +193,7 @@ myemail::before {
     cursor: pointer;
 }
 
-.techLineA {
-    display: inline-block;
-    width: 50%;
-}
-
-.techLineB {
+.techLine {
     display: inline-block;
     width: 50%;
 }

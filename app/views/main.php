@@ -114,14 +114,14 @@
     <h1>Technologies</h1>
 
     <div class='xpBlock'>
-        <div class='techLineA'>Responsive web design and implementation (CSS, SCSS, SASS)</div><div class='techLineB'>4 years</div>
-        <div class='techLineA'>JavaScript (jQuery, Angular 1&2, Vue, vanilla)</div><div class='techLineB'>3 years</div>
-        <div class='techLineA'>Angular 2 (Version 5 and above)</div><div class='techLineB'>6 months</div>
-        <div class='techLineA'>Java (Maven, Spring)</div><div class='techLineB'>6 months</div>
-        <div class='techLineA'>Linux webservers CLI</div><div class='techLineB'>3 years</div>
-        <div class='techLineA'>PHP (REST API's, Laravel)</div><div class='techLineB'>2½ years</div>
-        <div class='techLineA'>General scripting (.cmd, bat, powershell)</div><div class='techLineB'>6 months</div>
-        <div class='techLineA'>Vue JS</div><div class='techLineB'>Small side projects I do on my own time</div>
+        <div class='techLine'>Responsive web design and implementation (CSS, SCSS, SASS)</div><div class='techLine'>4 years</div>
+        <div class='techLine'>JavaScript (jQuery, Angular 1&2, Vue, vanilla)</div><div class='techLine'>3 years</div>
+        <div class='techLine'>Angular 2 (Version 5 and above)</div><div class='techLine'>6 months</div>
+        <div class='techLine'>Java (Maven, Spring)</div><div class='techLine'>6 months</div>
+        <div class='techLine'>Linux webservers CLI</div><div class='techLine'>3 years</div>
+        <div class='techLine'>PHP (REST API's, Laravel)</div><div class='techLine'>2½ years</div>
+        <div class='techLine'>General scripting (.cmd, bat, powershell)</div><div class='techLine'>6 months</div>
+        <div class='techLine'>Vue JS</div><div class='techLine'>Small side projects I do on my own time</div>
     </div>
 
     <h1>Experience</h1>
