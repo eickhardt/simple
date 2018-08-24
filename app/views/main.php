@@ -95,20 +95,13 @@
 
 <div class='panel content' id='about'>
     <h1>About me</h1>
-    <p>My work aims at bridging the gap between graphic designers and end users of digital products, in order to bring about the best possible user experience to all audiences.</p>
-        
+    <p>My work aims at bridging the gap between graphic designers and end users of digital products, in order to bring about the best possible user experience to all audiences.</p> 
     <p>I see myself at the crossing of backend-development, OOP-design, human-computer interaction and media, and technology research.</p>
-    
     <p>Well versed in both front and backend development, I prefer to work with established and proven technologies. I enjoy quickly creating small projects and testing ideas.</p>
-
     <img style="margin: 10px 0;" width="50%" src='http://static.tumblr.com/efa7ixv/dw0m5amek/rajanand-programming-quotes__1_.jpg' alt='Comic'>
-
     <p>I have been involved with numerous successful projects, doing a variety of tasks from restructuring and integrating different systems across platforms, maintaining legacy code, to developing brand new concepts from the ground up.</p>
-    
     <p>In parallel I find working on the web a source of inspiration to my private life, and I undertake personal projects from time to time to diversify and increase my programming experience.</p>
-    
     <p>And when not at work I'm either running, playing music with my guitar, or traveling around. I also like to play with Arduino, and whip out my soldering iron when I get the chance.</p>
-
 </div>
 
 <div class='panel content' id='experience'>
@@ -312,7 +305,7 @@
             <img class="site_image" src="/img/workmassage.png">
         </div>
     </a>
-    
+
     <h2>Projects that I worked on in collaboration with others</h2>
     <a target="_blank" href="http://www.amordating.co.uk">
         <div class='publiDIV'>
